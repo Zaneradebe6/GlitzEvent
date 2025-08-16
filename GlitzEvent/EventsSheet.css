@@ -1,0 +1,10 @@
+﻿body {
+    background-color: #ffc4c4;
+
+}
+h1, h2 {
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif; /* choose your font */
+    font-style: italic;
+    font-weight: 300;
+}
